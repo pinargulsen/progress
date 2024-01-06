@@ -1,9 +1,7 @@
 progress - Coreutils Progress Viewer
 =====================
-
 What is it
 ----------
-
 This tool can be described as a **tiny**, dirty C command
 that looks for coreutils basic commands (cp, mv, dd, tar, gzip/gunzip,
 cat, etc.) currently running on your system and displays the
